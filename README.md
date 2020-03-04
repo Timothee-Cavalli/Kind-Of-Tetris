@@ -5,7 +5,7 @@ The goal is to fill the map with the "3D tetrominos"
 
 What is interessting with this project is that, I made it so it is very modular :
 
- I can create "tetrominos" & maps without having more code to do or much configuration (just need to attach the correct scripts, wich can be premade with prefabs)
+ I can create "tetrominos" & maps without having more code to do or much configuration (just need to attach the correct scripts, which can be premade with prefabs)
  
  In long term why not creating a map & "3D tetromino" editor.
 
@@ -17,7 +17,7 @@ What is interessting with this project is that, I made it so it is very modular 
  
  right click + mouse movement - move the camera
  
- left click - place the piece
+ left click - place the piece (can't place if the piece is red)  or take the placed piece (if no piece in hand)
  
  sroll wheel - next/prev piece
  
